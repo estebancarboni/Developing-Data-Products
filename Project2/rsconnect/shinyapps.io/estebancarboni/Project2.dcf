@@ -1,0 +1,12 @@
+name: Project2
+title: Project2
+username:
+account: estebancarboni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3296227
+bundleId: 3901093
+url: https://estebancarboni.shinyapps.io/Project2/
+when: 1606246039.26184
+asMultiple: FALSE
+asStatic: FALSE
